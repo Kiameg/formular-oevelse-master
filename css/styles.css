@@ -1,0 +1,27 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: rgb(240, 230, 248);
+  border-radius: 8px;
+  display: grid;
+  gap: 1rem;
+}
+
+label,
+input,
+button {
+  display: block;
+  color: rgb(214, 164, 252);
+}
+.form-felt {
+  display: grid;
+  gap: 3px;
+}
+
+h2 {
+  color: rgb(214, 164, 252);
+}
+
+select {
+  color: rgb(214, 164, 252);
+}
