@@ -5,6 +5,7 @@ form {
   border-radius: 8px;
   display: grid;
   gap: 1rem;
+  border-radius: 25px;
 }
 
 label,
@@ -12,10 +13,13 @@ input,
 button {
   display: block;
   color: rgb(214, 164, 252);
+  border-radius: 15px;
+  padding: 10px;
 }
 .form-felt {
   display: grid;
   gap: 3px;
+  border-radius: 15px;
 }
 
 h2 {
@@ -24,4 +28,8 @@ h2 {
 
 select {
   color: rgb(214, 164, 252);
+  border-radius: 15px;
+}
+textarea {
+  border-radius: 15px;
 }
